@@ -57,6 +57,5 @@ This project analyzes the accessibility of public transport within the Melbourne
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
----
 For further details, please consult the full report provided in `PTV Case Study Report.docx`.
 
