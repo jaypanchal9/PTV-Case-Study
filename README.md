@@ -45,7 +45,7 @@ This project analyzes the accessibility of public transport within the Melbourne
 
 ## How to Run
 - Ensure Docker, PostgreSQL (PostGIS enabled), and QGIS are installed.
-- Follow scripts provided in `scripts/` for data loading and preprocessing.
+- Follow scripts provided in `scripts` for data loading and preprocessing.
 - Open QGIS project files (`.qgz`) for visualizations.
 
 ## Author
